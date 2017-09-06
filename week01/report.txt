@@ -1,0 +1,1 @@
+Pada tutorial/lab01 satu ini siswa diajak kembali untuk mengenal cara menggunakan github dan online repository untuk mem-pull dan mem-push pekerjaannya. Selain itu juga siswa diperkenalkan dengan CLI dan scripting.
