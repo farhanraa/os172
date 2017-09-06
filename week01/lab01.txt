@@ -20,3 +20,4 @@ drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Sep  4 16:43 week09
 drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Sep  4 16:44 week10
 drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Sep  4 16:44 xtra
 /home/fasilkom/mahasiswa/f/farhan.ramadhan/os172/week01
+Today is 06 Sep 2017 at 22:40:45
