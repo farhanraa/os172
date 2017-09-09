@@ -1,0 +1,4 @@
+w01-170903-22-PS-About: Lab session week01 
+w01-170907-16-LR-About: Introducing to scripting, From: Lecturer 
+w01-170907-20-LR-About: Reading scripting tutorial, From: website 
+w01-170907-20-PS-About: Practicing scripting 
